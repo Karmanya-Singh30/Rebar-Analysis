@@ -1,0 +1,4 @@
+python src/main.py \
+  --input data/inputs/input1.jpg \
+  --output data/outputs/output1.jpg \
+  --compare designs/design1.jpg
